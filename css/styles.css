@@ -7,8 +7,8 @@ Texto traditional forest green #143109
 
 */
 * {
-margin: 1px;
-padding: 2px;
+margin: 0;
+padding: 0;
 background-color: #F7F7FF;
 text-decoration: none;
 color: #143109;
@@ -146,4 +146,17 @@ span{
 .animate__zoomIn{
   animation-timing-function: ease;
 
+}
+.up{
+  font-size: 24px;
+  text-align: center;
+  text-decoration-color: #738290;
+}
+
+.down {
+  font-size: 24px;
+  text-align: right;
+  text-decoration-color: #738290;
+  margin-right: 10px;
+  padding-right: 5px;
 }
