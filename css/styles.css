@@ -160,3 +160,34 @@ span{
   margin-right: 10px;
   padding-right: 5px;
 }
+
+/* Media Query */
+
+@media screen and (max-with: 320px;){
+
+  p{
+    margin:2px;
+    padding: 1px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    letter-spacing: 2px;
+    display: block;
+  }
+.article{
+  line-height: 10px;
+}
+  }
+  @media screen and (max-with: 740px;){
+
+    p{
+      margin:2px;
+      padding: 1px;
+      text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
+      letter-spacing: 2px;
+      display: block;
+    }
+  .article{
+    line-height: 10px;
+  }
+    }
