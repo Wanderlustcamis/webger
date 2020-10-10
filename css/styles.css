@@ -83,6 +83,10 @@ footer{
   align-items: center;
 
 }
+
+span{
+  font-family: 'BenchNine', sans-serif;
+}
 /* fotos */
 
 .container {
