@@ -15,14 +15,18 @@ text-decoration: none;
 color: #143109;
 }
 
+article{
+  margin:40px;
+  padding: 10px;
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
 p{
   margin:10px;
   padding: 2px;
   text-align: center;
   font-family: 'Source Sans Pro', sans-serif;
-  line-height: 2px;
 }
-
 
 h1 {
   margin-top:30px;
@@ -167,17 +171,23 @@ span{
 
 @media screen and (max-with: 320px;){
 
+ article{
+    margin:2px;
+    padding: 1px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: block;
+  }
+
   p{
     margin:2px;
     padding: 1px;
     text-align: center;
     font-family: 'Source Sans Pro', sans-serif;
-    letter-spacing: 2px;
     display: block;
+
   }
-.article{
-  line-height: 10px;
-}
+
 h1{
   margin-top: 2px;
 }
@@ -187,18 +197,22 @@ footer{
   }
   @media screen and (max-with: 740px;){
 
-    p{
-      margin:2px;
-      padding: 1px;
+    article{
+      margin:5px;
+      padding: 2px;
       text-align: center;
       font-family: 'Source Sans Pro', sans-serif;
-      letter-spacing: 2px;
       display: block;
     }
-  .article{
-    line-height: 10px;
-    margin: 2px;
+
+  p{
+    margin:5px;
+    padding: 2px;
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    display: block;
   }
+
   h1{
     margin-top: 10px;
   }
