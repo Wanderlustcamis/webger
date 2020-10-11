@@ -172,13 +172,18 @@ span{
 .lg{
   text-align: right;
   margin-right: 40px;
-  margin-top: 40px;
+  margin-top: 4 0px;
 }
 /* Media Query */
 
 @media screen and (max-with: 320px;){
+  *{
+  padding: 0px;
+  margin: 0px;
+  width: auto;
+  }
 
- article{
+  article{
     margin:2px;
     padding: 1px;
     text-align: center;
@@ -198,14 +203,20 @@ span{
     margin-top: 80px;
   }
 
-h1{
+  h1{
   margin-top: 2px;
 }
-footer{
+  footer{
   margin: 2px;
 }
   }
   @media screen and (max-with: 740px;){
+
+    *{
+    padding: 0px;
+    margin: 0px;
+    width: auto;
+    }
 
     article{
       margin:5px;
@@ -215,23 +226,23 @@ footer{
       display: block;
     }
 
-  p{
-    margin:5px;
-    padding: 2px;
-    text-align: center;
-    font-family: 'Source Sans Pro', sans-serif;
-    display: block;
-  }
+    p{
+      margin:5px;
+      padding: 2px;
+      text-align: center;
+      font-family: 'Source Sans Pro', sans-serif;
+      display: block;
+      }
 
-  h1{
-    margin-top: 10px;
-  }
+      h1{
+        margin-top: 10px;
+      }
 
-  h3{
-    margin-top: 80px;
-  }
+      h3{
+        margin-top: 80px;
+      }
 
-  footer{
-    margin: 2px;
-  }
-    }
+      footer{
+          margin: 2px;
+          }
+            }
