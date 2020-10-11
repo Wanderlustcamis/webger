@@ -16,7 +16,8 @@ color: #143109;
 }
 
 article{
-  margin:40px;
+  margin-left:40px;
+  margin-right: 40px;
   padding: 10px;
   text-align: center;
   font-family: 'Source Sans Pro', sans-serif;
@@ -26,6 +27,7 @@ p{
   padding: 2px;
   text-align: center;
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 20px;
 }
 
 h1 {
@@ -41,7 +43,7 @@ h1 {
 }
 
 h2{
-  margin:10px;
+  margin:5px;
   padding: 5px;
   text-align: center;
   text-decoration: none;
@@ -51,7 +53,7 @@ h2{
 }
 
 h3{
-  margin:10px;
+  margin:30px;
   padding: 2px;
   text-align: center;
   text-decoration: none;
@@ -69,6 +71,7 @@ a {
 }
 a:hover {
   text-decoration: none;
+  color: #143109;
 }
 
 ul{
@@ -142,7 +145,7 @@ span{
   padding-bottom: 2px;
 }
 .work{
-  margin:10px;
+  margin:5px;
   padding:2px;
 }
 
@@ -187,6 +190,9 @@ span{
     display: block;
 
   }
+  h3{
+    margin-top: 80px;
+  }
 
 h1{
   margin-top: 2px;
@@ -216,6 +222,11 @@ footer{
   h1{
     margin-top: 10px;
   }
+
+  h3{
+    margin-top: 80px;
+  }
+
   footer{
     margin: 2px;
   }
