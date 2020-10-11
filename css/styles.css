@@ -6,6 +6,7 @@ Titulos Slate Gray: #738290
 Texto traditional forest green #143109
 
 */
+
 * {
 margin: 0;
 padding: 0;
@@ -24,9 +25,9 @@ p{
 
 
 h1 {
-  margin-top:10px;
-  margin-bottom: 0;
-  padding:2px;
+  margin-top:30px;
+  margin-bottom:0;
+  padding:20px;
   text-align: center;
   text-decoration: none;
   font-size: 50px;
@@ -81,6 +82,7 @@ ul{
 
 footer{
   align-items: center;
+  margin-bottom: 30px;
 
 }
 
@@ -176,6 +178,12 @@ span{
 .article{
   line-height: 10px;
 }
+h1{
+  margin-top: 2px;
+}
+footer{
+  margin: 2px;
+}
   }
   @media screen and (max-with: 740px;){
 
@@ -189,5 +197,12 @@ span{
     }
   .article{
     line-height: 10px;
+    margin: 2px;
+  }
+  h1{
+    margin-top: 10px;
+  }
+  footer{
+    margin: 2px;
   }
     }
