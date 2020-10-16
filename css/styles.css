@@ -5,14 +5,19 @@ fondo ghost white: #F7F7FF
 Titulos Slate Gray: #738290
 Texto traditional forest green #143109
 
+Dark mode
+
+Fondo - deep space sparkle #4A5759
+Titulos - Cultured #EEF0F2
+Texto - Silver #C6C7C4
 */
 
 * {
 margin: 0;
 padding: 0;
-background-color: #F7F7FF;
+background-color: #4A5759;
 text-decoration: none;
-color: #143109;
+color: #C6C7C4;
 }
 
 article{
@@ -37,7 +42,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   font-size: 50px;
-  color: #738290;
+  color: #EEF0F2;
   text-transform: capitalize;
   font-family: 'BenchNine', sans-serif;
 }
@@ -48,7 +53,7 @@ h2{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #738290;
+  color: #EEF0F2;
   font-family: 'BenchNine', sans-serif;
 }
 
@@ -58,20 +63,20 @@ h3{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #738290;
+  color: #EEF0F2;
   font-family: 'BenchNine', sans-serif;
 
 }
 
 a {
   text-decoration: none;
-  color: #738290;
+  color: #EEF0F2;
   text-align:center;
   font-family: 'Source Sans Pro', sans-serif;
 }
 a:hover {
   text-decoration: none;
-  color: #143109;
+  color: #C6C7C4;
 }
 
 ul{
@@ -159,13 +164,13 @@ span{
 .up{
   font-size: 24px;
   text-align: center;
-  text-decoration-color: #738290;
+  text-decoration-color: #EEF0F2;
 }
 
 .down {
   font-size: 24px;
   text-align: right;
-  text-decoration-color: #738290;
+  text-decoration-color: #EEF0F2;
   margin-right: 10px;
   padding-right: 5px;
 }
