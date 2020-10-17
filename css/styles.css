@@ -7,15 +7,15 @@ Texto traditional forest green #143109
 
 Dark mode
 
-Fondo - deep space sparkle #4A5759
-Titulos - Cultured #EEF0F2
+Fondo - Rich black FORGA #001011
+Titulos - black coral  #67697C
 Texto - Silver #C6C7C4
 */
 
 * {
 margin: 0;
 padding: 0;
-background-color: #4A5759;
+background-color: #001011;
 text-decoration: none;
 color: #C6C7C4;
 }
@@ -42,7 +42,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   font-size: 50px;
-  color: #EEF0F2;
+  color: #67697C;
   text-transform: capitalize;
   font-family: 'BenchNine', sans-serif;
 }
@@ -53,7 +53,7 @@ h2{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #EEF0F2;
+  color: #67697C;
   font-family: 'BenchNine', sans-serif;
 }
 
@@ -63,14 +63,14 @@ h3{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #EEF0F2;
+  color: #67697C;
   font-family: 'BenchNine', sans-serif;
 
 }
 
 a {
   text-decoration: none;
-  color: #EEF0F2;
+  color: #67697C;
   text-align:center;
   font-family: 'Source Sans Pro', sans-serif;
 }
@@ -164,13 +164,13 @@ span{
 .up{
   font-size: 24px;
   text-align: center;
-  text-decoration-color: #EEF0F2;
+  text-decoration-color: #67697C;
 }
 
 .down {
   font-size: 24px;
   text-align: right;
-  text-decoration-color: #EEF0F2;
+  text-decoration-color: #67697C;
   margin-right: 10px;
   padding-right: 5px;
 }
