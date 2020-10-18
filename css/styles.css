@@ -8,16 +8,16 @@ Texto traditional forest green #143109
 Dark mode
 
 Fondo - Rich black FORGA #001011
-Titulos - black coral  #67697C
-Texto - Silver #C6C7C4
+Titulos - Rifle green  #494D43
+Texto - Xanadu #7F8576
 */
 
 * {
 margin: 0;
 padding: 0;
-background-color: #001011;
+background-color: #F7F7FF;
 text-decoration: none;
-color: #C6C7C4;
+color: #143109;
 }
 
 article{
@@ -42,7 +42,7 @@ h1 {
   text-align: center;
   text-decoration: none;
   font-size: 50px;
-  color: #67697C;
+  color: #738290;
   text-transform: capitalize;
   font-family: 'BenchNine', sans-serif;
 }
@@ -53,7 +53,7 @@ h2{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #67697C;
+  color: #738290;
   font-family: 'BenchNine', sans-serif;
 }
 
@@ -63,20 +63,20 @@ h3{
   text-align: center;
   text-decoration: none;
   font-size: 24px;
-  color: #67697C;
+  color: #738290;
   font-family: 'BenchNine', sans-serif;
 
 }
 
 a {
   text-decoration: none;
-  color: #67697C;
+  color: #738290;
   text-align:center;
   font-family: 'Source Sans Pro', sans-serif;
 }
 a:hover {
   text-decoration: none;
-  color: #C6C7C4;
+  color: #143109;
 }
 
 ul{
